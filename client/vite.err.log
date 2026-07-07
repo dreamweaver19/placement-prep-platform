@@ -1,0 +1,8 @@
+[31m(!) Failed to run dependency scan. Skipping dependency pre-bundling. Error: spawn EPERM
+    at ChildProcess.spawn (node:internal/child_process:420:11)
+    at Object.spawn (node:child_process:762:9)
+    at ensureServiceIsRunning (C:\Users\Satyam Mittal\OneDrive\Desktop\resume\client\node_modules\esbuild\lib\main.js:2268:29)
+    at Object.context (C:\Users\Satyam Mittal\OneDrive\Desktop\resume\client\node_modules\esbuild\lib\main.js:2167:33)
+    at prepareEsbuildScanner (file:///C:/Users/Satyam%20Mittal/OneDrive/Desktop/resume/client/node_modules/vite/dist/node/chunks/config.js:31474:23)
+    at async scan (file:///C:/Users/Satyam%20Mittal/OneDrive/Desktop/resume/client/node_modules/vite/dist/node/chunks/config.js:31400:14)
+    at async file:///C:/Users/Satyam%20Mittal/OneDrive/Desktop/resume/client/node_modules/vite/dist/node/chunks/config.js:34131:15[39m
