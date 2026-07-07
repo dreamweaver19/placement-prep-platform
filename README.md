@@ -68,10 +68,6 @@ An intelligent, full-stack career preparation platform designed to help software
    npm run dev
    ```
 
-## 📸 Screenshots
-
-*(Add screenshots of your Dashboard, Resume Analyzer, and Mock Interview here to impress recruiters!)*
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
